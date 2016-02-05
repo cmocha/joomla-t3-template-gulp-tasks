@@ -1,0 +1,27 @@
+{
+  "name": "joomla-t3-template-gulp-tasks",
+  "version": "0.0.1",
+  "description": "Collection of gulp tasks for use with the Joomla T3 framework blank Bootstrap 3 template.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmocha/joomla-t3-template-gulp-tasks.git"
+  },
+  "keywords": [
+    "gulp",
+    "Joomla",
+    "T3",
+    "Framework",
+    "Templating"
+  ],
+  "author": "Chris Mosca",
+  "license": "MIT",
+  "homepage": "https://github.com/cmocha/t3-joomla-gulp-tasks#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0"
+  }
+}
